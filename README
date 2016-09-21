@@ -1,0 +1,13 @@
+SMSFlooder -- Aircel SMS Flooder.
+
+Setup - 
+1. Install Python 2.7 or later version.
+2. Install pip and requests module
+2. execute aircel.py 
+
+
+Config -
+1. Change the number to victim mobile number.
+2. Assign sms count value for loop.
+
+
